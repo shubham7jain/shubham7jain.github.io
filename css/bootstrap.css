@@ -6757,7 +6757,7 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 
-.thumbnail{        
+.thumbnail, .img-responsive {        
     width: 300px; 
     // or you could use percentage values for responsive layout
     // width : 100%;
